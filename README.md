@@ -4,8 +4,6 @@ Stored credentials are encrypted using simple hashing technique making it somewh
 
 # Run in Gitpod
 
-You can also run Account-Storage in Gitpod, a free online dev environment for GitHub:
-
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/Account-Storage/blob/master/main.py)
 
 Please Note: The GUI is a little glitchy in GitPod. For best results expand the VNC window to be full screen.
